@@ -2,3 +2,4 @@
 * cats
 * dogs
 * frogs
+* lion
